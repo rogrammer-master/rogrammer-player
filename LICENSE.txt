@@ -1,0 +1,44 @@
+Rogrammer Player v2 License
+This License governs the use, modification, and distribution of "Rogrammer Player v2" (hereafter referred to as "the Software"). By using, modifying, or distributing the Software, you agree to the terms of this License.
+
+1. Definitions
+"Software": Refers to "Rogrammer Player v2" and any derivatives thereof.
+"You": Refers to the individual or entity using, modifying, or distributing the Software.
+"Author": Refers to rogrammer, the original creator of the Software.
+2. Usage Rights
+You are permitted to use the Software for any purpose, provided you comply with the terms of this License.
+
+3. Modification Rights
+You are permitted to modify the Software, subject to the following conditions:
+
+Any modifications to the Software must also be licensed under the terms of this License.
+You must retain the original copyright notice and credit the Author in any modified versions.
+4. Distribution Rights
+You are permitted to distribute the Software, subject to the following conditions:
+
+You must distribute the Software under the terms of this License.
+The source code of the Software must be made available to anyone receiving a copy of the Software.
+You must credit the Author in any distributions of the Software or its derivatives.
+You are not permitted to sell the Software or any derivative works based on the Software.
+5. No Warranty
+The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the Author be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+6. Attribution
+In all copies or substantial portions of the Software, you must include the following notice:
+
+Rogrammer Player v2
+Copyright (c) 2024 rogrammer
+Licensed under the Rogrammer Player v2 License
+7. Open Source Requirement
+The Software, including any modifications or derivative works, must remain open source. You are not allowed to change the licensing terms to make it closed source.
+
+8. Governing Law
+This License shall be governed by and construed in accordance with the laws of [Your Country/State], without regard to its conflict of law principles.
+
+9. Acceptance
+By using, modifying, or distributing the Software, you indicate your acceptance of this License.
+
+10. Amendments
+This License may only be amended by a written agreement signed by both the Author and the licensee.
+
+By adhering to this License, you contribute to the collaborative improvement and dissemination of the Software while ensuring that the original Author is credited and the Software remains free and open for all.
